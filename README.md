@@ -2,8 +2,14 @@
 
 ## Installation
 
+### Install Packages  
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ### 1. Install CARLA  
-First, install **CARLA 0.9.15** from the official website: [CARLA](https://carla.org/).
+First, install **CARLA 0.9.13** from the official website: [CARLA](https://carla.org/).
 
 ### 2. Install Apollo  
 Next, install **Apollo 8.0** from the official repository: [Apollo](https://github.com/ApolloAuto/apollo).
@@ -48,4 +54,4 @@ Install the **CARLA-Apollo Bridge** from: [CARLA Apollo Bridge](https://github.c
 8. Run the **main script**:  
    ```bash
    python main.py
-   ```
+   
