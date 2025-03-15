@@ -44,3 +44,8 @@ Install the **CARLA-Apollo Bridge** from: [CARLA Apollo Bridge](https://github.c
    python listener.py
    ```
    - If you encounter issues running `listener.py`, refer to the official Apollo documentation: [Apollo Cyber Python README](https://github.com/ApolloAuto/apollo/blob/master/cyber/python/README.md).
+
+8. Run the **main script**:  
+   ```bash
+   python main.py
+   ```
