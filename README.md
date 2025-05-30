@@ -1,5 +1,83 @@
 # SANDWITH-ICSE
 
+## 📁 Repository Structure
+
+- `.idea/`  
+  *Project-specific settings for JetBrains IDEs.*
+
+- `MARL/`  
+  *Contains MARL weight*
+
+- `__pycache__/`  
+  *Directory for Python bytecode cache files.*
+
+- `map/`  
+  *Includes map files used in simulations.*
+
+- `ART_fuzzer.py`  
+  *Script for the Adaptive Random Testing fuzzer.*
+
+- `ICSE_2026_Supplementary.pdf`  
+  *Supplementary material for the ICSE 2026 submission.*
+
+- `MADDPG.py`  
+  *Implementation of the Multi-Agent Deep Deterministic Policy Gradient algorithm.*
+
+- `README.md`  
+  *Provides an overview and setup instructions for the project.*
+
+- `agent.py`  
+  *Defines agent behaviors and interactions.*
+
+- `buffer.py`  
+  *Manages experience replay buffers.*
+
+- `carla_controller.py`  
+  *Controls the CARLA simulator environment.*
+
+- `demographic information.csv`  
+  *CSV file containing demographic data.*
+
+- `fuzzer_set_mapper.py`  
+  *Maps fuzzer configurations to specific settings.*
+
+- `listener.py`  
+  *Script for listening to simulation events.*
+
+- `main.py`  
+  *Main entry point for executing the system.*
+
+- `manual_control.py`  
+  *Script for manual control within the simulation.*
+
+- `math_tool.py`  
+  *Provides mathematical utilities and functions.*
+
+- `networks.py`  
+  *Defines neural network architectures.*
+
+- `offline_searcher.py`  
+  *Performs offline search operations.*
+
+- `requirements.txt`  
+  *Lists Python dependencies required for the project.*
+
+- `sim_env.py`  
+  *Sets up the simulation environment.*
+
+- `tick_manager.py`  
+  *Manages simulation ticks and timing.*
+
+- `utility.py`  
+  *Contains utility functions used across the project.*
+
+- `Raw_data.xlsx`  
+  *Contains raw result of our experiments*
+
+- `Statistical_Testing.xlsx`  
+  *Contains Statistical result of our experiments*
+
+- 
 ## Installation
 
 ### Install Packages  
